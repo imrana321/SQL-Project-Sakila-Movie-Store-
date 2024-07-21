@@ -9,3 +9,9 @@ In this repository, you will find the following files:
 <p>✅ <strong>Dataset and Visualizations:</strong> Excel files containing the dataset used for analysis and the resulting visualization charts, including bar charts, column charts, and treemaps.</p>
 
 These resources provide a comprehensive overview of the project and the methodology used to derive business insights from the Sakila database.
+
+### Link
+
+Checkout the detail project summary on my website.
+
+My Portfolio: https://imranayasmin.wordpress.com/sakila-movie-dvd-store/
