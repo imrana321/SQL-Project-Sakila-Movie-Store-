@@ -1,0 +1,1 @@
+The Sakila database is a comprehensive resource for analyzing various aspects of a movie rental business. It includes tables such as actor, film, inventory, rental, payment, customer, address, city, and country. This project aims to extract meaningful insights from this database to enhance business decision-making and customer satisfaction.
